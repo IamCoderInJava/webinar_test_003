@@ -1,1 +1,10 @@
 1. this is my INITIAL input into first.txt file.
+2. I am making changes to this first.txt file after it was initailly committed.
+
+
+After I can either do below:
+
+(use "git add <file>..." to update what will be committed)
+(use "git restore <file>..." to discard changes in working directory)
+
+or with git checkout command discard changes.
